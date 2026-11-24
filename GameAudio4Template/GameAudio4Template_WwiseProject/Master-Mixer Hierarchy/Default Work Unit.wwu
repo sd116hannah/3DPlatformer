@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5531F016-FC77-403B-B001-98FE273D40FD}" SchemaVersion="123">
+	<Busses>
+		<WorkUnit Name="Default Work Unit" ID="{5531F016-FC77-403B-B001-98FE273D40FD}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<ReferenceList>
+						<Reference Name="AudioDevice" PluginName="System" CompanyID="0" PluginID="174" PluginType="7">
+							<ObjectRef Name="System" ID="{C53955F8-B6B0-47A4-97B9-052139FC81A8}" WorkUnitID="{1BF2F519-F853-4D7B-859D-2500F7D30396}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Bus Name="Music" ID="{B0DB257C-526E-4488-999F-CB265DF3241B}">
+							<ChildrenList>
+								<Bus Name="Music_Gameplay" ID="{4D7EBABD-40C1-445D-A931-762FDD0155A6}"/>
+								<Bus Name="Music_Menu" ID="{9A4AAD9D-9072-4134-88E6-66C3D12A5328}"/>
+							</ChildrenList>
+							<StateInfo>
+								<StatePropertyList>
+									<Property Name="BusVolume"/>
+									<Property Name="Highpass"/>
+									<Property Name="Lowpass"/>
+									<Property Name="MakeUpGain"/>
+									<Property Name="Pitch"/>
+									<Property Name="Volume"/>
+								</StatePropertyList>
+								<StateGroupList>
+									<StateGroupInfo>
+										<StateGroupRef Name="GameState" ID="{CD246086-9AE3-4C16-98D4-CE89FB5DAABB}"/>
+									</StateGroupInfo>
+								</StateGroupList>
+								<CustomStateList>
+									<CustomState>
+										<StateRef Name="Gameplay" ID="{5D6F2FFA-24F7-4056-A71A-B0FA427896A7}"/>
+										<CustomState Name="" ID="{FEAFF177-F109-450F-9DB2-4B9CAB6E5726}" ShortID="535902773">
+											<PropertyList>
+												<Property Name="Volume" Type="Real64" Value="6"/>
+											</PropertyList>
+										</CustomState>
+									</CustomState>
+									<CustomState>
+										<StateRef Name="Paused" ID="{C3300CBD-D0A3-477E-95F6-979EB8450C9B}"/>
+										<CustomState Name="" ID="{82A7B9B8-723D-41C7-8080-B7E5602F27DD}" ShortID="199216061">
+											<PropertyList>
+												<Property Name="Highpass" Type="int16" Value="56"/>
+												<Property Name="Volume" Type="Real64" Value="-20"/>
+											</PropertyList>
+										</CustomState>
+									</CustomState>
+								</CustomStateList>
+							</StateInfo>
+						</Bus>
+						<Bus Name="SFX" ID="{C556A8C5-5CF7-483A-BDF1-33038FDE4CA5}">
+							<ChildrenList>
+								<Bus Name="SFX_Player" ID="{D3433062-E10D-4EBD-99B6-01F730C43C12}"/>
+								<Bus Name="SFX_Enemies" ID="{4B36A71B-976E-4AAE-BBF4-60EBC81791D9}"/>
+							</ChildrenList>
+							<StateInfo>
+								<StateGroupList>
+									<StateGroupInfo>
+										<StateGroupRef Name="GameState" ID="{CD246086-9AE3-4C16-98D4-CE89FB5DAABB}"/>
+									</StateGroupInfo>
+								</StateGroupList>
+								<CustomStateList>
+									<CustomState>
+										<StateRef Name="Gameplay" ID="{5D6F2FFA-24F7-4056-A71A-B0FA427896A7}"/>
+										<CustomState Name="" ID="{97966F9A-72DA-4BE9-8F3E-EF08DC4544E4}" ShortID="1055786978"/>
+									</CustomState>
+									<CustomState>
+										<StateRef Name="Paused" ID="{C3300CBD-D0A3-477E-95F6-979EB8450C9B}"/>
+										<CustomState Name="" ID="{56840E5F-F20A-426D-B688-37FD0E249EC7}" ShortID="357166908"/>
+									</CustomState>
+								</CustomStateList>
+							</StateInfo>
+						</Bus>
+						<Bus Name="VO" ID="{E5A784FE-5882-42BA-861F-E1C40F312521}">
+							<PropertyList>
+								<Property Name="MaxDuckVolume" Type="Real64" Value="-12"/>
+							</PropertyList>
+							<DuckingList>
+								<DuckItem>
+									<BusRef Name="SFX" ID="{C556A8C5-5CF7-483A-BDF1-33038FDE4CA5}"/>
+									<DuckingParam>
+										<Volume>-6</Volume>
+										<FadeInTime>0.100000001490116</FadeInTime>
+										<FadeOutTime>0.200000002980232</FadeOutTime>
+										<FadeCurve>FadeLinear</FadeCurve>
+									</DuckingParam>
+								</DuckItem>
+							</DuckingList>
+						</Bus>
+						<Bus Name="Ambience" ID="{02699F1D-B8A2-4E47-9FF5-6AA7C50D6507}"/>
+						<Bus Name="UI" ID="{ED7174AA-F4B8-4651-B4E6-57D0AF5694C7}"/>
+						<AuxBus Name="Reverb_Room" ID="{BC6A631A-876E-4086-9F30-8D3BE75730A9}">
+							<ObjectLists>
+								<ObjectList Name="Effects">
+									<Reference>
+										<Local>
+											<EffectSlot Name="" ID="{D1B9AB68-D7C9-4FB1-B3E6-D93A8A0ADEE3}" ShortID="105955010">
+												<ReferenceList>
+													<Reference Name="Effect" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+														<ObjectRef Name="Holy" ID="{CC7B8638-C670-4AD5-B3FB-331EA81037F6}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+													</Reference>
+												</ReferenceList>
+											</EffectSlot>
+										</Local>
+									</Reference>
+								</ObjectList>
+							</ObjectLists>
+						</AuxBus>
+					</ChildrenList>
+				</Bus>
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
+</WwiseDocument>

@@ -1,0 +1,837 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "4056684167",
+    "Type": "User",
+    "GUID": "{7C47FEBE-9BB7-4E64-9A9C-92A55DEE212A}",
+    "Language": "SFX",
+    "Hash": "{AF9DE7D3-DA0E-F6CB-3545-E6E6F6CBED1E}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Master",
+    "ShortName": "Master",
+    "Path": "Master.bnk",
+    "Media": [
+     {
+      "Id": "987633",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_HauntedVoid_Growl_05.wav",
+      "CachePath": "7E/{7E73E940-39E6-2E56-3BFC-C7F529AF6FB1}.wem"
+     },
+     {
+      "Id": "77487813",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_ToxicJungle_Mosquito_06.wav",
+      "CachePath": "F0/{F0871A53-C689-36D6-C6EE-4D467FBD47F7}.wem"
+     },
+     {
+      "Id": "112479028",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_AncientCave_WaterDrip_07.wav",
+      "CachePath": "85/{85084483-0E5F-28CA-2D14-4D55D48E3F33}.wem"
+     },
+     {
+      "Id": "120643231",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_AncientCave_Debris_02.wav",
+      "CachePath": "F8/{F885CD85-85D6-2F15-0BB6-55106DBAA91C}.wem"
+     },
+     {
+      "Id": "134610783",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_HauntedVoid_Growl_06.wav",
+      "CachePath": "0B/{0B9E7E61-E199-3BC0-B08D-15015828D854}.wem"
+     },
+     {
+      "Id": "237504893",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_AncientCave_Debris_07.wav",
+      "CachePath": "86/{86C4C7AC-044A-A622-71E5-7AC5F9E19DB8}.wem"
+     },
+     {
+      "Id": "264461218",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_HauntedVoid_Whisper_05.wav",
+      "CachePath": "DC/{DCE81F0F-252A-EE73-AAD3-7C3FF28D9709}.wem"
+     },
+     {
+      "Id": "272169777",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_ToxicJungle_Frog_04.wav",
+      "CachePath": "A0/{A05FC5E0-0B16-6AAB-3B2E-90D519FD9D1D}.wem"
+     },
+     {
+      "Id": "291113587",
+      "Language": "SFX",
+      "Streaming": "true",
+      "Location": "Loose",
+      "ShortName": "Ambience_HauntedVoid_Background.wav",
+      "Path": "Media/291113587.wem",
+      "CachePath": "55/{556FACF7-815D-0E34-62A2-5E8D84376533}.wem"
+     },
+     {
+      "Id": "298332783",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_ToxicJungle_Mosquito_04.wav",
+      "CachePath": "9F/{9F2CA5C6-C26F-CB34-184F-A29A48A67F54}.wem"
+     },
+     {
+      "Id": "300172902",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "ThunderShot_Hold.wav",
+      "CachePath": "D0/{D0668164-059D-ED59-85C8-A824FBF01922}.wem"
+     },
+     {
+      "Id": "300426740",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_ToxicJungle_Frog_07.wav",
+      "CachePath": "DF/{DFAA44DA-0EE5-8EB9-CD71-2409A3499D15}.wem"
+     },
+     {
+      "Id": "301391200",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "ThunderShot_Release_02.wav",
+      "CachePath": "21/{21964D0C-8930-B697-86F6-50225B5B147C}.wem"
+     },
+     {
+      "Id": "330603532",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_HauntedVoid_Growl_04.wav",
+      "CachePath": "A8/{A8C1A1BE-C522-8B84-6534-5CEFA5A23F29}.wem"
+     },
+     {
+      "Id": "353932966",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_AncientCave_Debris_03.wav",
+      "CachePath": "A5/{A5310D95-BAC3-C411-DDC4-55ED13A98E87}.wem"
+     },
+     {
+      "Id": "357825045",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_ToxicJungle_Mosquito_07.wav",
+      "CachePath": "31/{31C1DBB0-B66B-1B3D-E424-3EAF9C771EA0}.wem"
+     },
+     {
+      "Id": "391261480",
+      "Language": "SFX",
+      "Streaming": "true",
+      "Location": "Loose",
+      "ShortName": "Ambience_ToxicJungle_Background.wav",
+      "Path": "Media/391261480.wem",
+      "CachePath": "A9/{A92A8FCD-A93D-C846-855F-D949F5A2D5E0}.wem"
+     },
+     {
+      "Id": "395533235",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "JumpPad_Bounce.wav",
+      "CachePath": "6D/{6D2DF70F-CDCA-2C87-62B6-CBFED71C142A}.wem"
+     },
+     {
+      "Id": "400609096",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_ToxicJungle_Frog_02.wav",
+      "CachePath": "F1/{F1163BFD-CC31-7F1B-C966-0F8174467C6B}.wem"
+     },
+     {
+      "Id": "421523631",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_ToxicJungle_Mosquito_02.wav",
+      "CachePath": "1E/{1E25EBE8-2434-B4F8-9A28-3E0CC1DFDC5C}.wem"
+     },
+     {
+      "Id": "422254478",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_AncientCave_Debris_04.wav",
+      "CachePath": "E3/{E3D7EB05-46CA-2F05-A0A4-E2B049F324E9}.wem"
+     },
+     {
+      "Id": "438041549",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_AncientCave_WaterDrip_06.wav",
+      "CachePath": "1B/{1B1FB313-1404-41D4-0F8E-F25B267C7827}.wem"
+     },
+     {
+      "Id": "438362487",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_HauntedVoid_Growl_02.wav",
+      "CachePath": "F2/{F2E90B76-BC1C-2537-9922-E93AB0C08498}.wem"
+     },
+     {
+      "Id": "443596375",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Musical, Loop, Tonal Synth, Rhythmical Pulse, 140 BPM, Low SND165223.wav",
+      "CachePath": "65/{65A55F9B-3C8E-50AF-6A4A-C7C3E36A63A9}.wem"
+     },
+     {
+      "Id": "444384191",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_HauntedVoid_Whisper_07.wav",
+      "CachePath": "0E/{0ED28729-2825-5D9B-D169-7590C44DFCA7}.wem"
+     },
+     {
+      "Id": "459627219",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_HauntedVoid_Whisper_04.wav",
+      "CachePath": "A7/{A7BB41E1-9651-729A-1431-4F88ED2CDE34}.wem"
+     },
+     {
+      "Id": "459858926",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_AncientCave_WaterDrip_01.wav",
+      "CachePath": "01/{0143DAE9-9F89-6806-A9CF-A90DE4CF6782}.wem"
+     },
+     {
+      "Id": "532110433",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_HauntedVoid_Whisper_06.wav",
+      "CachePath": "A5/{A5F2C25B-82C1-15D6-99AA-11BC020AACD6}.wem"
+     },
+     {
+      "Id": "536683926",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_AncientCave_Debris_06.wav",
+      "CachePath": "16/{1660881B-2E05-C451-3BDB-811B324992E7}.wem"
+     },
+     {
+      "Id": "561191953",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_AncientCave_WaterDrip_03.wav",
+      "CachePath": "F7/{F7A0FCF4-5633-CECD-4FFD-14F15849D876}.wem"
+     },
+     {
+      "Id": "571170147",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_AncientCave_Debris_01.wav",
+      "CachePath": "61/{61DA84BD-B364-730B-C326-26092F262F6B}.wem"
+     },
+     {
+      "Id": "579805547",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_HauntedVoid_Whisper_02.wav",
+      "CachePath": "AB/{ABAB01A6-67FB-563C-9E09-679A85A481D8}.wem"
+     },
+     {
+      "Id": "590367079",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_ToxicJungle_Mosquito_01.wav",
+      "CachePath": "05/{05705007-E831-3F90-15DA-7F8B090CEE90}.wem"
+     },
+     {
+      "Id": "600875762",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_AncientCave_WaterDrip_04.wav",
+      "CachePath": "26/{26C595FE-3DC9-B221-F263-B1B913B7DAED}.wem"
+     },
+     {
+      "Id": "637414989",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "ThunderShot_Press_02.wav",
+      "CachePath": "FA/{FA1F13DB-4BB8-1568-DCB4-525E41C858AB}.wem"
+     },
+     {
+      "Id": "640527699",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_ToxicJungle_Frog_06.wav",
+      "CachePath": "39/{3941CFE8-1504-55ED-1163-17570CBBF007}.wem"
+     },
+     {
+      "Id": "662733056",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "ThunderShot_Press_01.wav",
+      "CachePath": "58/{585CD152-35D7-D22A-52EF-3D1083E04BCE}.wem"
+     },
+     {
+      "Id": "680604530",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "ThunderShot_Release_03.wav",
+      "CachePath": "B3/{B38DC8CC-8253-F38A-6B09-2C60B51FD398}.wem"
+     },
+     {
+      "Id": "707329120",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_AncientCave_WaterDrip_02.wav",
+      "CachePath": "DA/{DAB0B321-B7A3-DFB1-A8E9-E02E7493A5D0}.wem"
+     },
+     {
+      "Id": "712276193",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_HauntedVoid_Growl_03.wav",
+      "CachePath": "15/{15FB8934-A20A-894B-E78F-9E716922FA71}.wem"
+     },
+     {
+      "Id": "728625976",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_ToxicJungle_Frog_03.wav",
+      "CachePath": "3A/{3A8101C8-0F75-43B9-4C4C-DF762E528651}.wem"
+     },
+     {
+      "Id": "751549846",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "ThunderShot_Press_03.wav",
+      "CachePath": "82/{827883B8-62CC-8016-DB14-F402BE9B9636}.wem"
+     },
+     {
+      "Id": "752158111",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_ToxicJungle_Frog_05.wav",
+      "CachePath": "44/{4439B885-E66B-DBC1-F5B9-405BAE811CB8}.wem"
+     },
+     {
+      "Id": "770757062",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_ToxicJungle_Mosquito_03.wav",
+      "CachePath": "DA/{DA2C410F-0805-A65F-5803-26724FCC74FA}.wem"
+     },
+     {
+      "Id": "853606511",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "ThunderShot_Release_01.wav",
+      "CachePath": "15/{152D3552-0753-82CF-9EB9-1008AC8721AB}.wem"
+     },
+     {
+      "Id": "861717412",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_HauntedVoid_Growl_07.wav",
+      "CachePath": "CA/{CA14D1C3-0671-E24B-1E4A-A6F8005BC008}.wem"
+     },
+     {
+      "Id": "890807050",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "ThunderShot_Hold.wav",
+      "CachePath": "16/{161176FE-68DC-4D51-3D46-477EB8034036}.wem"
+     },
+     {
+      "Id": "895887459",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_HauntedVoid_Whisper_03.wav",
+      "CachePath": "CC/{CC3E1620-E6FA-2472-197A-F9E9F03385BE}.wem"
+     },
+     {
+      "Id": "906445089",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_AncientCave_WaterDrip_05.wav",
+      "CachePath": "CE/{CE702D71-8BA4-41EE-AB50-B64B20D0DDBC}.wem"
+     },
+     {
+      "Id": "999150002",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_ToxicJungle_Mosquito_05.wav",
+      "CachePath": "6F/{6F737F52-43FE-07C5-42DC-53D0FDBCF201}.wem"
+     },
+     {
+      "Id": "1016924354",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_AncientCave_Debris_05.wav",
+      "CachePath": "8D/{8D528544-173E-B09B-DAD1-BFBC8CDD2A93}.wem"
+     },
+     {
+      "Id": "1025348126",
+      "Language": "SFX",
+      "Streaming": "true",
+      "Location": "Loose",
+      "ShortName": "Ambience_AncientCave_Background.wav",
+      "Path": "Media/1025348126.wem",
+      "CachePath": "9A/{9A41113A-3E90-8C11-4D0E-B711989A64E1}.wem"
+     },
+     {
+      "Id": "1026596037",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_HauntedVoid_Whisper_01.wav",
+      "CachePath": "13/{13D9260B-7309-9E2E-DEBA-6F63D5764A05}.wem"
+     },
+     {
+      "Id": "1046393270",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_ToxicJungle_Frog_01.wav",
+      "CachePath": "7E/{7E60E616-5C45-5E9B-5215-AFCE3B3BE99E}.wem"
+     },
+     {
+      "Id": "1062229388",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience_HauntedVoid_Growl_01.wav",
+      "CachePath": "54/{54A0BC9C-CC1C-DED2-CCF6-C7D8A331472C}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "155015579",
+      "Name": "JumpPad_Bounce",
+      "ObjectPath": "\\Events\\Default Work Unit\\JumpPad_Bounce",
+      "GUID": "{DDC2B1F2-F21F-4104-8AA5-E2430FACC300}",
+      "MaxAttenuation": "50",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "395533235"
+       }
+      ]
+     },
+     {
+      "Id": "278617630",
+      "Name": "Play_Ambience",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Ambience",
+      "GUID": "{CDCF5CFB-8ED2-41DA-82FF-A803C7027737}",
+      "DurationType": "Infinite",
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "1176052424",
+         "Id": "219304270",
+         "GUID": "{66BF4211-8A0F-4CD0-8583-2F47FD96CD28}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "77487813"
+         },
+         {
+          "Id": "272169777"
+         },
+         {
+          "Id": "298332783"
+         },
+         {
+          "Id": "300426740"
+         },
+         {
+          "Id": "357825045"
+         },
+         {
+          "Id": "391261480"
+         },
+         {
+          "Id": "400609096"
+         },
+         {
+          "Id": "421523631"
+         },
+         {
+          "Id": "590367079"
+         },
+         {
+          "Id": "640527699"
+         },
+         {
+          "Id": "728625976"
+         },
+         {
+          "Id": "752158111"
+         },
+         {
+          "Id": "770757062"
+         },
+         {
+          "Id": "999150002"
+         },
+         {
+          "Id": "1046393270"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "1176052424",
+         "Id": "4122393694",
+         "GUID": "{02955D78-A14F-498D-BC4E-B02A393B3464}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "112479028"
+         },
+         {
+          "Id": "120643231"
+         },
+         {
+          "Id": "237504893"
+         },
+         {
+          "Id": "353932966"
+         },
+         {
+          "Id": "422254478"
+         },
+         {
+          "Id": "438041549"
+         },
+         {
+          "Id": "459858926"
+         },
+         {
+          "Id": "536683926"
+         },
+         {
+          "Id": "561191953"
+         },
+         {
+          "Id": "571170147"
+         },
+         {
+          "Id": "600875762"
+         },
+         {
+          "Id": "707329120"
+         },
+         {
+          "Id": "906445089"
+         },
+         {
+          "Id": "1016924354"
+         },
+         {
+          "Id": "1025348126"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "1176052424",
+         "Id": "3370470011",
+         "GUID": "{A4130BF4-850E-4895-9E81-257547FA5784}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "987633"
+         },
+         {
+          "Id": "134610783"
+         },
+         {
+          "Id": "264461218"
+         },
+         {
+          "Id": "291113587"
+         },
+         {
+          "Id": "330603532"
+         },
+         {
+          "Id": "438362487"
+         },
+         {
+          "Id": "444384191"
+         },
+         {
+          "Id": "459627219"
+         },
+         {
+          "Id": "532110433"
+         },
+         {
+          "Id": "579805547"
+         },
+         {
+          "Id": "712276193"
+         },
+         {
+          "Id": "861717412"
+         },
+         {
+          "Id": "895887459"
+         },
+         {
+          "Id": "1026596037"
+         },
+         {
+          "Id": "1062229388"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "Id": "1887133776",
+      "Name": "Play_SpatialAudio",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_SpatialAudio",
+      "GUID": "{0198B731-8150-4978-AE6F-798ADC66844D}",
+      "MaxAttenuation": "50",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "291113587"
+       }
+      ]
+     },
+     {
+      "Id": "2863702042",
+      "Name": "Play_Synth_Layer_1",
+      "ObjectPath": "\\Events\\Default Work Unit\\Music\\Play_Synth_Layer_1",
+      "GUID": "{D1BE8D5B-4575-46D9-B5C6-39FBD10DB104}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "443596375"
+       }
+      ]
+     },
+     {
+      "Id": "3629196698",
+      "Name": "Player_Land",
+      "ObjectPath": "\\Events\\Default Work Unit\\Player_Land",
+      "GUID": "{CDB5C834-4020-4050-B531-15692E49893E}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     },
+     {
+      "Id": "2477713992",
+      "Name": "Stop_Ambience",
+      "ObjectPath": "\\Events\\Default Work Unit\\Stop_Ambience",
+      "GUID": "{2ED52F2E-CB0C-4BB4-AF05-C565DC3A21F6}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     },
+     {
+      "Id": "1553148048",
+      "Name": "ThunderShotA_Begin",
+      "ObjectPath": "\\Events\\Default Work Unit\\ThunderShotA\\ThunderShotA_Begin",
+      "GUID": "{6EA0F114-A0AC-4090-92A6-0651A876D8FC}",
+      "DurationType": "OneShot",
+      "DurationMin": "15.036521",
+      "DurationMax": "15.036521",
+      "MediaRefs": [
+       {
+        "Id": "637414989"
+       },
+       {
+        "Id": "662733056"
+       },
+       {
+        "Id": "751549846"
+       },
+       {
+        "Id": "890807050"
+       }
+      ]
+     },
+     {
+      "Id": "2119183764",
+      "Name": "ThunderShotA_End",
+      "ObjectPath": "\\Events\\Default Work Unit\\ThunderShotA\\ThunderShotA_End",
+      "GUID": "{80FD52E6-5A44-431D-9FB7-6145ADC76BDD}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.8204167",
+      "DurationMax": "2.8520834",
+      "MediaRefs": [
+       {
+        "Id": "301391200"
+       },
+       {
+        "Id": "680604530"
+       },
+       {
+        "Id": "853606511"
+       }
+      ]
+     },
+     {
+      "Id": "1763899454",
+      "Name": "ThunderShotA_Interrupt",
+      "ObjectPath": "\\Events\\Default Work Unit\\ThunderShotA\\ThunderShotA_Interrupt",
+      "GUID": "{37AD2258-1A4B-40AA-BDCF-0EADD2765630}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     },
+     {
+      "Id": "4175013913",
+      "Name": "ThunderShotB_Interrupt",
+      "ObjectPath": "\\Events\\Default Work Unit\\ThunderShotB\\ThunderShotB_Interrupt",
+      "GUID": "{8B782460-2DA6-4822-9AAB-F6AF3A2D7A65}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     },
+     {
+      "Id": "2469054401",
+      "Name": "ThunderShotB_PlaySequence",
+      "ObjectPath": "\\Events\\Default Work Unit\\ThunderShotB\\ThunderShotB_PlaySequence",
+      "GUID": "{129524CC-69C8-4ED7-8D01-BFD80C7EA451}",
+      "DurationType": "Mixed",
+      "DurationMin": "2.8204167",
+      "DurationMax": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "300172902"
+       },
+       {
+        "Id": "301391200"
+       },
+       {
+        "Id": "637414989"
+       },
+       {
+        "Id": "662733056"
+       },
+       {
+        "Id": "680604530"
+       },
+       {
+        "Id": "751549846"
+       },
+       {
+        "Id": "853606511"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3254916944",
+      "Name": "JumpPadCounter",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\JumpPadCounter",
+      "GUID": "{BB1594C0-E321-43CE-AC8F-133E124C707B}"
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "1176052424",
+      "Name": "Location",
+      "ObjectPath": "\\States\\Default Work Unit\\Location",
+      "GUID": "{9B8AD2E7-A001-463D-86B0-6F63E4D57C20}",
+      "States": [
+       {
+        "Id": "219304270",
+        "Name": "Jungle",
+        "ObjectPath": "\\States\\Default Work Unit\\Location\\Jungle",
+        "GUID": "{66BF4211-8A0F-4CD0-8583-2F47FD96CD28}"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\Location\\None",
+        "GUID": "{0FAD40FF-12CD-49E4-9FD1-FFEC84776785}"
+       },
+       {
+        "Id": "3370470011",
+        "Name": "Void",
+        "ObjectPath": "\\States\\Default Work Unit\\Location\\Void",
+        "GUID": "{A4130BF4-850E-4895-9E81-257547FA5784}"
+       },
+       {
+        "Id": "4122393694",
+        "Name": "Cave",
+        "ObjectPath": "\\States\\Default Work Unit\\Location\\Cave",
+        "GUID": "{02955D78-A14F-498D-BC4E-B02A393B3464}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{FE8D722D-0C25-BD27-69DF-5A8F1D7BD1F7}"
+ }
+}

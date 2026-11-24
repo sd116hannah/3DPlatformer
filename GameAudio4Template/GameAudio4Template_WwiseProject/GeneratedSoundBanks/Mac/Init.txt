@@ -1,0 +1,35 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	1176052424	Location			\Default Work Unit\Location	
+	4091656514	GameState			\Default Work Unit\GameState	
+
+State	ID	Name	State Group			Notes
+	219304270	Jungle	Location			
+	748895195	None	Location			
+	3370470011	Void	Location			
+	4122393694	Cave	Location			
+	89505537	Gameplay	GameState			
+	319258907	Paused	GameState			
+	748895195	None	GameState			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	85412153	Ambience			\Default Work Unit\Master Audio Bus\Ambience	
+	217780010	SFX_Player			\Default Work Unit\Master Audio Bus\SFX\SFX_Player	
+	393239870	SFX			\Default Work Unit\Master Audio Bus\SFX	
+	620878633	Music_Gameplay			\Default Work Unit\Master Audio Bus\Music\Music_Gameplay	
+	1534528548	VO			\Default Work Unit\Master Audio Bus\VO	
+	1551306167	UI			\Default Work Unit\Master Audio Bus\UI	
+	1598298728	Music_Menu			\Default Work Unit\Master Audio Bus\Music\Music_Menu	
+	2624074123	SFX_Enemies			\Default Work Unit\Master Audio Bus\SFX\SFX_Enemies	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3991942870	Music			\Default Work Unit\Master Audio Bus\Music	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	3258416929	Reverb_Room			\Default Work Unit\Master Audio Bus\Reverb_Room	
+
+Effect plug-ins	ID	Name	Type				Notes
+	3164629247	Holy	Wwise RoomVerb			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

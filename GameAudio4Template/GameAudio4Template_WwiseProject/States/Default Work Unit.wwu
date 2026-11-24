@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{ED43B22D-9BB1-4EA6-80EE-D61C71BB8F38}" SchemaVersion="123">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{ED43B22D-9BB1-4EA6-80EE-D61C71BB8F38}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="Location" ID="{9B8AD2E7-A001-463D-86B0-6F63E4D57C20}">
+					<ChildrenList>
+						<State Name="None" ID="{0FAD40FF-12CD-49E4-9FD1-FFEC84776785}"/>
+						<State Name="Cave" ID="{02955D78-A14F-498D-BC4E-B02A393B3464}"/>
+						<State Name="Jungle" ID="{66BF4211-8A0F-4CD0-8583-2F47FD96CD28}"/>
+						<State Name="Void" ID="{A4130BF4-850E-4895-9E81-257547FA5784}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="GameState" ID="{CD246086-9AE3-4C16-98D4-CE89FB5DAABB}">
+					<ChildrenList>
+						<State Name="None" ID="{7F3636C7-3836-4F3B-8519-36EDD6356536}"/>
+						<State Name="Gameplay" ID="{5D6F2FFA-24F7-4056-A71A-B0FA427896A7}"/>
+						<State Name="Paused" ID="{C3300CBD-D0A3-477E-95F6-979EB8450C9B}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

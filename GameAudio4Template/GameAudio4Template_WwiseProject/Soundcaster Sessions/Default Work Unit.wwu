@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CE8377DE-260F-4627-8D71-BE65054DF944}" SchemaVersion="123">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{CE8377DE-260F-4627-8D71-BE65054DF944}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="Test" ID="{0A7C0602-83BE-4FAD-B395-5DB491E2AB28}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="ThunderShotA_Begin" ID="{6EA0F114-A0AC-4090-92A6-0651A876D8FC}" WorkUnitID="{D9277FD8-68E0-4BAC-BCDC-4615D4645D88}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="ThunderShotA_End" ID="{80FD52E6-5A44-431D-9FB7-6145ADC76BDD}" WorkUnitID="{D9277FD8-68E0-4BAC-BCDC-4615D4645D88}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="JumpPad_Bounce" ID="{DDC2B1F2-F21F-4104-8AA5-E2430FACC300}" WorkUnitID="{D9277FD8-68E0-4BAC-BCDC-4615D4645D88}"/>
+							<Position X="0" Y="3"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="ThunderShotA_Interrupt" ID="{37AD2258-1A4B-40AA-BDCF-0EADD2765630}" WorkUnitID="{D9277FD8-68E0-4BAC-BCDC-4615D4645D88}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Player_Land" ID="{CDB5C834-4020-4050-B531-15692E49893E}" WorkUnitID="{D9277FD8-68E0-4BAC-BCDC-4615D4645D88}"/>
+							<Position X="1" Y="3"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="ThunderShotB_PlaySequence" ID="{129524CC-69C8-4ED7-8D01-BFD80C7EA451}" WorkUnitID="{D9277FD8-68E0-4BAC-BCDC-4615D4645D88}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="ThunderShotB_Interrupt" ID="{8B782460-2DA6-4822-9AAB-F6AF3A2D7A65}" WorkUnitID="{D9277FD8-68E0-4BAC-BCDC-4615D4645D88}"/>
+							<Position X="3" Y="1"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="None" ID="{7F3636C7-3836-4F3B-8519-36EDD6356536}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

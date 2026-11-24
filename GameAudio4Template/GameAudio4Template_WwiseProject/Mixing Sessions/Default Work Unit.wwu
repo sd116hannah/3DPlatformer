@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{FE23B5ED-03DB-49F0-AE18-366F8B290B22}" SchemaVersion="123">
+	<MixingSessions>
+		<WorkUnit Name="Default Work Unit" ID="{FE23B5ED-03DB-49F0-AE18-366F8B290B22}" PersistMode="Standalone">
+			<ChildrenList>
+				<MixingSession Name="Master" ID="{08EFD1D0-DB1B-4423-A62C-96E7065C06BC}">
+					<ObjectList>
+						<ObjectRef Name="Ambience" ID="{02699F1D-B8A2-4E47-9FF5-6AA7C50D6507}" WorkUnitID="{5531F016-FC77-403B-B001-98FE273D40FD}"/>
+						<ObjectRef Name="Music" ID="{B0DB257C-526E-4488-999F-CB265DF3241B}" WorkUnitID="{5531F016-FC77-403B-B001-98FE273D40FD}"/>
+						<ObjectRef Name="SFX" ID="{C556A8C5-5CF7-483A-BDF1-33038FDE4CA5}" WorkUnitID="{5531F016-FC77-403B-B001-98FE273D40FD}"/>
+						<ObjectRef Name="UI" ID="{ED7174AA-F4B8-4651-B4E6-57D0AF5694C7}" WorkUnitID="{5531F016-FC77-403B-B001-98FE273D40FD}"/>
+						<ObjectRef Name="VO" ID="{E5A784FE-5882-42BA-861F-E1C40F312521}" WorkUnitID="{5531F016-FC77-403B-B001-98FE273D40FD}"/>
+						<ObjectRef Name="Music_Gameplay" ID="{4D7EBABD-40C1-445D-A931-762FDD0155A6}" WorkUnitID="{5531F016-FC77-403B-B001-98FE273D40FD}"/>
+						<ObjectRef Name="Music_Menu" ID="{9A4AAD9D-9072-4134-88E6-66C3D12A5328}" WorkUnitID="{5531F016-FC77-403B-B001-98FE273D40FD}"/>
+						<ObjectRef Name="SFX_Enemies" ID="{4B36A71B-976E-4AAE-BBF4-60EBC81791D9}" WorkUnitID="{5531F016-FC77-403B-B001-98FE273D40FD}"/>
+						<ObjectRef Name="SFX_Player" ID="{D3433062-E10D-4EBD-99B6-01F730C43C12}" WorkUnitID="{5531F016-FC77-403B-B001-98FE273D40FD}"/>
+					</ObjectList>
+				</MixingSession>
+			</ChildrenList>
+		</WorkUnit>
+	</MixingSessions>
+</WwiseDocument>
